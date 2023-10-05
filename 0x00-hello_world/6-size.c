@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Description: A c program that prints the size of different data types using sizeof function
+ * Description: A c program that uses sizeof function
  *
  * Return: 0 (success)
 */
