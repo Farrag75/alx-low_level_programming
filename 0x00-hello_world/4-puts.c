@@ -3,6 +3,8 @@ int main(void)
 {
 
 	char prnt[] = "\"Programming is like building a multilingual puzzle";
-	puts(prnt);
+
+	puts(prnt); /* print the sentence as is */
+
 	return (0);
 }
